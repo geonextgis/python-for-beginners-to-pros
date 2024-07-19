@@ -1,6 +1,8 @@
-# 1. Basics of Python Programming
+# Python for Beginners to Pros
 
-## Python Basics
+## 1. Basics of Python Programming
+
+### Python Basics
 - Short info about DSMP
 - About Python
 - Python Output/print function
@@ -12,7 +14,7 @@
 - Python Type conversion
 - Python Literals
 
-## Python Operators + if-else + Loops
+### Python Operators + if-else + Loops
 - Start of the session
 - Python Operators
 - Python if-else
@@ -20,7 +22,7 @@
 - Python While Loop
 - Python for loop
 
-## Python Strings
+### Python Strings
 - Introduction
 - Solving Loop problems
 - Break, continue, pass statement in loops
@@ -31,16 +33,16 @@
 - Operations on String
 - Common String functions
 
-## Time complexity
+### Time complexity
 - Start of the Session
 - PPT presentation on Time Complexity (Efficiency in Programming and Orders of Growth)
 - Examples
 
-## Interview Questions
+### Interview Questions
 
-# 2. Python Data Types
+## 2. Python Data Types
 
-## Python Lists
+### Python Lists
 - Introduction
 - Array vs List
 - How lists are stored in a memory
@@ -58,9 +60,9 @@
   - Python List can store any kind of objects
 - Disadvantages of Python list
 
-## Tuples + Set + Dictionary
+### Tuples + Set + Dictionary
 
-### Tuple
+#### Tuple
 - Create and access a tuple
 - Can we edit and add items to a tuple?
 - Deletion
@@ -70,7 +72,7 @@
 - Tuple unpacking
 - Zip() on tuple
 
-### Set
+#### Set
 - Create and access a set
 - Can we edit and add items to a set?
 - Deletion
@@ -79,7 +81,7 @@
 - Frozen set (immutable set)
 - Set comprehension
 
-### Dictionary
+#### Dictionary
 - Create dictionary
 - Accessing items
 - Add, remove, edit key-value pairs
@@ -89,7 +91,7 @@
 - Zip() on dictionary
 - Nested comprehension
 
-## Python Functions
+### Python Functions
 - Create function
 - Arguments and parameters
 - args and kwargs
@@ -105,6 +107,6 @@
 - Higher order functions
 - map(), filter(), reduce()
 
-## Array Interview Questions
+### Array Interview Questions
 
-## Week 2 Interview Questions
+### Week 2 Interview Questions
